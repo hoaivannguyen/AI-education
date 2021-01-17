@@ -23,10 +23,6 @@ Firstly, AI will creat a recommendation systet to fit with subjects they love an
 Gamification will create an exciting environement for both teachers and students. With the help of AI, personalized learning paths will be created consisting of challenges, levels that suitable with students' compaibilities.
 
 
-![Gamification in learning](https://www.techuz.com/blog/wp-content/uploads/2019/06/What-is-gamification.jpgP)
-
-
-
 ## Data sources and AI methods
 TF-IDF, Similarity Measurements, Users' Data and Statistics
 
