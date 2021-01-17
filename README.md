@@ -21,6 +21,7 @@ There are personalization in music, movies, news and so on but never have anyone
 Firstly, AI will creat a recommendation systet to fit with subjects they love and teachers that suitable for them. For teachers, they will also have a recommendation for their students with the same passion and interests. It works like Tinder :) but instead getting a match in education
 
 Gamification will create an exciting environement for both teachers and students. With the help of AI, personalized learning paths will be created consisting of challenges, levels that suitable with students' compaibilities.
+![image of a cat](/What-is-gamification.jpg)
 
 
 ## Data sources and AI methods
